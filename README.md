@@ -85,12 +85,6 @@ The analysis is performed using six relational datasets:
 
 ---
 
-## Customer Retention
-
-![Retention](Images/customer-retention.png)
-
----
-
 # 💡 Key Business Insights
 
 - Revenue is concentrated within a few high-performing product categories.
