@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Analysis using SQL & Python
 
-![Banner]("Images/banner.png")
+![Banner](Images/banner.png)
 
 ## 📌 Overview
 
