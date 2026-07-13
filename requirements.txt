@@ -1,1 +1,5 @@
-
+pandas
+numpy
+matplotlib
+mysql-connector-python
+jupyter
