@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Analysis using SQL & Python
 
-![Banner]("C:\Users\rosha\OneDrive\Pictures\Screenshots\banner.png")
+![Banner]("Images/banner.png")
 
 ## 📌 Overview
 
