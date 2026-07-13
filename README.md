@@ -69,7 +69,7 @@ The analysis is performed using six relational datasets:
 
 ## Monthly Sales Trend
 
-![Monthly Sales](Images/monthly-sales.png)
+![Monthly Sales](Images/customerSpending.png)
 
 ---
 
