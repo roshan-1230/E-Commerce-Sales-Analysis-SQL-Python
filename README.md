@@ -81,7 +81,7 @@ The analysis is performed using six relational datasets:
 
 ## Top Sellers
 
-![Top Sellers](Images/top-sellers.png)
+![Top Sellers](Images/topCustomer.png)
 
 ---
 
