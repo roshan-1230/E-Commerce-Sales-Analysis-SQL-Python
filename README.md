@@ -75,7 +75,7 @@ The analysis is performed using six relational datasets:
 
 ## Revenue by Category
 
-![Category Sales](Images/category-sales.png)
+![Category Sales](Images/Revenue.png)
 
 ---
 
